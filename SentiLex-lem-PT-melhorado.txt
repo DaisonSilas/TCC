@@ -4449,7 +4449,7 @@ namoradiço.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 namorado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 namorador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 nanico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-não.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+não.PoS=Adj;GN=ms;TG=HUM;POL=-2;ANOT=MAN
 napoleónico.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 narcisista.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 narcótico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
@@ -4801,7 +4801,7 @@ perceptível.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 perceptivo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 perdedor.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 perdido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-perdi.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+perdi.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 perdoado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 perdoador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 perdoável.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -4987,7 +4987,7 @@ postiço.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 posto.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 potente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 poupado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-pouco.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+pouco.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 pousado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 pragmático.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 pragmatista.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
@@ -5271,7 +5271,7 @@ rebolião.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 reboludo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 rebuscado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 recalcado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-receioso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
+receioso.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 recalcitrante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 recapturado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 recatado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
