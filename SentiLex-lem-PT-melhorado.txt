@@ -1,4 +1,4 @@
-﻿abafado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
+abafado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 abafante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 abaixado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 abalado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
@@ -260,7 +260,7 @@ ajanotado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 ajoelhado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 ajoujado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 ajudado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-ajudou.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
+ajudou.PoS=Adj;GN=ms;TG=HUM;POL=0.8;ANOT=JALC
 ajudante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 ajuizado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 ajustado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
@@ -721,7 +721,7 @@ audacioso.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 audaz.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 áureo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 ausente.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-ausencia.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
+ausencia.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=JALC
 auspicioso.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 austero.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 autarca.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -819,7 +819,7 @@ barulhento.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 baselga.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 básico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 bastardo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-bastante.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+bastante.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 basto.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 batalhador.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 batalhante.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -908,7 +908,7 @@ blasfemador.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 blasfemo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 blindado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 bloqueado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-boa.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
+boa.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=MAN
 boateiro.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 bobo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 boboca.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
@@ -922,7 +922,7 @@ bolachudo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 bolchevique.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 bolchevista.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 bolorento.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-bom.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
+bom.PoS=Adj;GN=ms;TG=HUM;POL=1.5;ANOT=MAN
 bom aluno.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 bombástico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 bombeado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
@@ -1058,10 +1058,10 @@ canhoto.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 canibal.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 canino.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 canonizado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-cansado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-cansaço.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-cansada.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-cansativo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+cansado.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=MAN
+cansaço.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=JALC
+cansada.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=MAN
+cansativo.PoS=Adj;GN=ms;TG=HUM;POL=-0.9;ANOT=MAN
 cão.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 caótico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 capacitado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
@@ -1250,7 +1250,7 @@ clarificado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 clarificador.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 clarista.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 clarividente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-claro.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+claro.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 clássico.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 claudicante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 clemente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -1295,8 +1295,8 @@ combalido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 combatente.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 combativo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 combinado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-comecei.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-começo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+comecei.PoS=Adj;GN=ms;TG=HUM;POL=0.3;ANOT=JALC
+começo.PoS=Adj;GN=ms;TG=HUM;POL=0.3;ANOT=MAN
 comedido.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 comedor.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 comemorado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
@@ -1330,8 +1330,8 @@ compincha.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 complacente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 completo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 complexado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-complexo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-complexos.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+complexo.PoS=Adj;GN=ms;TG=HUM;POL=-0.8;ANOT=MAN
+complexos.PoS=Adj;GN=ms;TG=HUM;POL=-0.9;ANOT=MAN
 complicado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 comportado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 compósito.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -1342,7 +1342,7 @@ compreensivo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 comprido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 comprometedor.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 comprometido.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-comprometimento.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+comprometimento.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 compromissado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 compulsivo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 compungido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -1382,7 +1382,7 @@ condoreiro.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 condutor.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 conduzido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 confiado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-confiante.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
+confiante.PoS=Adj;GN=ms;TG=HUM;POL=0.3;ANOT=MAN
 confiável.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 confinado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 conflituoso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -1424,7 +1424,7 @@ conservador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 considerado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 considerativo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 considerável.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-consigo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+consigo.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=MAN
 consistente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 consoante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 consolado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -1623,8 +1623,8 @@ decaído.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 decantado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 decente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 decepado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-decepcionado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-decepcionada.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
+decepcionado.PoS=Adj;GN=ms;TG=HUM;POL=-0.8;ANOT=JALC
+decepcionada.PoS=Adj;GN=ms;TG=HUM;POL=-0.8;ANOT=JALC
 decepcionante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 decidido.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 decisivo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -1633,7 +1633,7 @@ decorado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 decoroso.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 decrépito.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 dedicado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-dedicar.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+dedicar.PoS=Adj;GN=ms;TG=HUM;POL=0.3;ANOT=MAN
 deduzido.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 defeituoso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 defensor.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
@@ -2042,11 +2042,11 @@ difamatório.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 diferençado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 diferenciado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 diferente.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-difícil.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-dificil.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-dificuldade.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-dificuldades.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-dificudades.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+difícil.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=MAN
+dificil.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=MAN
+dificuldade.PoS=Adj;GN=ms;TG=HUM;POL=-0.8;ANOT=MAN
+dificuldades.PoS=Adj;GN=ms;TG=HUM;POL=-0.8;ANOT=MAN
+dificudades.PoS=Adj;GN=ms;TG=HUM;POL=-0.8;ANOT=MAN
 difundido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 difuso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 digno.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -2177,7 +2177,7 @@ duro.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 duro da mioleira.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 duro de ouvido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 duvidoso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-duvidas.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+duvidas.PoS=Adj;GN=ms;TG=HUM;POL=-0.3;ANOT=JALC
 ébrio.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 ecléctico.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 ecológico.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -2700,8 +2700,8 @@ eurocéptico.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 europeísta.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 europeizado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 evaporado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-evoluir.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-evoluindo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
+evoluir.PoS=Adj;GN=ms;TG=HUM;POL=0.8;ANOT=JALC
+evoluindo.PoS=Adj;GN=ms;TG=HUM;POL=0.8;ANOT=JALC
 evasivo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 exacerbado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 exagerado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -2752,7 +2752,7 @@ experiente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 experimentado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 experto.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 expirado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-explicado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+explicado.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 explicativo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 explícito.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 explorado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
@@ -2792,9 +2792,9 @@ faceiro.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 faceto.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 fácil.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 fácil.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-facilidade.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
+facilidade.PoS=Adj;GN=ms;TG=HUM;POL=0.8;ANOT=MAN
 facilitando.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-facilitou.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
+facilitou.PoS=Adj;GN=ms;TG=HUM;POL=0.8;ANOT=MAN
 facínora.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 facinoroso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 factível.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -2817,8 +2817,8 @@ falsificado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 falso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 falso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 falto.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-faltou.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-falta.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+faltou.PoS=Adj;GN=ms;TG=HUM;POL=-0.3;ANOT=JALC
+falta.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=JALC
 faltoso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 famélico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 famigerado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
@@ -3116,20 +3116,20 @@ gordurento.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 gorduroso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 gostável.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 gostoso.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-gostei.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
+gostei.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 governado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 governista.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 gozado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 gozador.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 grácil.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 gracioso.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-graça.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+graça.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=MAN
 graduado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 grafomaníaco.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 grafómano.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 grandalhão.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 grande.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-grandes.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+grandes.PoS=Adj;GN=ms;TG=HUM;POL=0.3;ANOT=JALC
 grandiloquente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 grandíloquo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 grandioso.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -3366,7 +3366,7 @@ imponderado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 imponente.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 impontual.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 impopular.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-importante.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+importante.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=MAN
 importunado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 importuno.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 impossível.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -3736,7 +3736,7 @@ intempestivo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 intencionado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 intencional.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 intenso.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-intensas.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+intensas.PoS=Adj;GN=ms;TG=HUM;POL=0.3;ANOT=JALC
 intercalado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 interceptado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 intercessor.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -4234,7 +4234,7 @@ mediático.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 mediato.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 médio.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 medíocre.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-mediocre.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+mediocre.PoS=Adj;GN=ms;TG=HUM;POL=-0.3;ANOT=MAN
 meditabundo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 meditado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 meditador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
@@ -4253,9 +4253,9 @@ meio-doido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 meio-morto.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 melado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 melancólico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-melhor.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-melhorar.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-melhores.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
+melhor.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
+melhorar.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
+melhores.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 melífluo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 melindrado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 melindroso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -4348,7 +4348,7 @@ moço.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 modal.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 modelado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 modelar.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-moderado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+moderado.PoS=Adj;GN=ms;TG=HUM;POL=-0.2;ANOT=MAN
 modernaço.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 modernista.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 moderno.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -4408,7 +4408,7 @@ mortificado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 morto.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 mostrado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 mostrador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-motivado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
+motivado.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=MAN
 motivador.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 motivante.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 mouro.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -4449,7 +4449,7 @@ namoradiço.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 namorado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 namorador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 nanico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-não.PoS=Adj;GN=ms;TG=HUM;POL=-2;ANOT=MAN
+não.PoS=Adj;GN=ms;TG=HUM;POL=-1.5;ANOT=MAN
 napoleónico.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 narcisista.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 narcótico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
@@ -4471,7 +4471,7 @@ nazi.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 nazista.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 nebuloso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 necessário.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
-necessario.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+necessario.PoS=Adj;GN=ms;TG=HUM;POL=0.3;ANOT=JALC
 necessitado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 necrófago.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 necrófilo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -4640,7 +4640,7 @@ ostentativo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 ostentoso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 otimista.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 ótimo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-otimo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
+otimo.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 ousado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 outorgado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 ouvido.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -4793,7 +4793,7 @@ pensativo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 penso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 pequenino.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 pequeno.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-pequenas.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+pequenas.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=MAN
 pequenote.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 pequerrucho.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 percebido.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -4801,7 +4801,7 @@ perceptível.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 perceptivo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 perdedor.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 perdido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-perdi.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+perdi.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 perdoado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 perdoador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 perdoável.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -4934,7 +4934,7 @@ pobretana.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 pobretão.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 pobrete.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 poderoso.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-poderia.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+poderia.PoS=Adj;GN=ms;TG=HUM;POL=-0.3;ANOT=JALC
 podre.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 poeta.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 poético.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
@@ -4987,7 +4987,7 @@ postiço.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 posto.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 potente.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 poupado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-pouco.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+pouco.PoS=Adj;GN=ms;TG=HUM;POL=-0..5;ANOT=MAN
 pousado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 pragmático.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 pragmatista.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
@@ -4999,7 +4999,7 @@ precavido.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 precioso.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 precipitado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 precisado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-preciso.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+preciso.PoS=Adj;GN=ms;TG=HUM;POL=0.2;ANOT=MAN
 preclaro.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 precoce.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 preconceituoso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -5036,8 +5036,8 @@ presidiário.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 preso.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 pressuroso.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 prestante.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-prestar.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-prestei.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
+prestar.PoS=Adj;GN=ms;TG=HUM;POL=0.6;ANOT=MAN
+prestei.PoS=Adj;GN=ms;TG=HUM;POL=0.6;ANOT=MAN
 prestativo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 prestável.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 preste.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
@@ -5252,8 +5252,8 @@ rastejante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 ratado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 ratificado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 rato.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-razoável.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-razoavel.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+razoável.PoS=Adj;GN=ms;TG=HUM;POL=-0.3;ANOT=MAN
+razoavel.PoS=Adj;GN=ms;TG=HUM;POL=-0.3;ANOT=MAN
 reaccionário.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 reacionário.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 reactivo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -5261,7 +5261,7 @@ real.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 realçado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 realista.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 realizado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
-realizar.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+realizar.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 rebaixado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 rebarbativo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 rebatido.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
@@ -5271,7 +5271,7 @@ rebolião.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 reboludo.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 rebuscado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 recalcado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-receioso.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+receioso.PoS=Adj;GN=ms;TG=HUM;POL=-0.3;ANOT=JALC
 recalcitrante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 recapturado.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 recatado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -5625,7 +5625,7 @@ sarraceno.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 satânico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 satírico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 satisfeito.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
-satisfatorio.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
+satisfatorio.PoS=Adj;GN=ms;TG=HUM;POL=0.6;ANOT=JALC
 satisfatoria.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 saturado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 saturante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
@@ -5849,7 +5849,7 @@ subversor.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 sucessor.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 sucinto.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 súdito.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
-suficiente.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
+suficiente.PoS=Adj;GN=ms;TG=HUM;POL=0.5;ANOT=JALC
 sufocado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 sufocador.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 sufocante.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
