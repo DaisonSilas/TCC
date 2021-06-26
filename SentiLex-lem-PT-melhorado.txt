@@ -4449,7 +4449,7 @@ namoradiço.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 namorado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 namorador.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 nanico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-não.PoS=Adj;GN=ms;TG=HUM;POL=-1,5;ANOT=MAN
+não.PoS=Adj;GN=ms;TG=HUM;POL=-1.5;ANOT=MAN
 napoleónico.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 narcisista.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 narcótico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
