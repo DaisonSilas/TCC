@@ -4229,7 +4229,7 @@ mazorro.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 mecanicista.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 medianeiro.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=JALC
 media.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
-mediano.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
+mediano.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 mediático.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 mediato.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 médio.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
@@ -4253,7 +4253,7 @@ meio-doido.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 meio-morto.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 melado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 melancólico.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-melhor.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
+melhor.PoS=Adj;GN=ms;TG=HUM;POL=2;ANOT=JALC
 melhorar.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 melhores.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 melífluo.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
@@ -5253,7 +5253,7 @@ ratado.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 ratificado.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=JALC
 rato.PoS=Adj;GN=ms;TG=HUM;POL=0;ANOT=MAN
 razoável.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
-razoavel.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
+razoavel.PoS=Adj;GN=ms;TG=HUM;POL=1;ANOT=MAN
 reaccionário.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
 reacionário.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=JALC
 reactivo.PoS=Adj;GN=ms;TG=HUM;POL=-1;ANOT=MAN
